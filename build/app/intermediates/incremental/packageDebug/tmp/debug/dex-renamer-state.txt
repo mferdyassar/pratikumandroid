@@ -1,0 +1,4 @@
+#Fri Nov 19 18:54:25 CST 2021
+base.0=E\:\\Uniska\\Praktikum Android\\bmi\\bmi_calculator_praktikum_k\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
